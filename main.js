@@ -14,6 +14,5 @@ const compile = () =>{
         }
     }
 }
-console.log(editor.contentWindow);
 
 compile();
